@@ -270,7 +270,7 @@ Together, NTv and iAlert can paint a more complete picture of the news. We'd lov
  <div class="row-fluid">
             <div class="span4">
               <h2>Obia William</h2>
-              <img  src="img/william.jpg" class="img-circle">
+              <img  src="img/william.jpg" >
              <p><strong>Web  and mobile apps developer</strong></p>
     <a target="_blank"  href="https://www.facebook.com/williamz.miller1"class="btn  btn-social-icon btn-facebook">
     <i class="fa fa-facebook"></i></a>
@@ -281,7 +281,7 @@ Together, NTv and iAlert can paint a more complete picture of the news. We'd lov
             </div><!--/span-->
             <div class="span4">
               <h2>Ejumu Emmanuel</h2>
-              <img  src="img/emma.jpg"class="img-circle">
+              <img  src="img/emma.jpg">
 
              <p><strong>Secretary and mobile developer</strong></p>
     <a target="_blank" href="https://www.facebook.com/ejumu.emmanuel" class="btn  btn-social-icon btn-facebook">
@@ -293,7 +293,7 @@ Together, NTv and iAlert can paint a more complete picture of the news. We'd lov
             </div><!--/span-->
             <div class="span4">
               <h2>Kimera Gidion</h2>
-              <img  src="img/doc.jpg" class="img-circle">
+              <img  src="img/doc.jpg" >
 
              <p><strong>Job title</strong>small description</p>
     <a target="_blank"class="btn  btn-social-icon btn-facebook">
@@ -309,7 +309,7 @@ Together, NTv and iAlert can paint a more complete picture of the news. We'd lov
           <div class="row-fluid">
             <div class="span4">
               <h2>Mulondo Ali Waiswa</h2>
-              <img  src="img/doc.jpg" class="img-circle">
+              <img  src="img/doc.jpg" >
 
              <p><strong>Job title</strong>small description</p>
     <a target="_blank"class="btn  btn-social-icon btn-facebook">
@@ -321,7 +321,7 @@ Together, NTv and iAlert can paint a more complete picture of the news. We'd lov
             </div><!--/span-->
             <div class="span4">
               <h2>Kato Damian</h2>
-              <img  src="img/doc.jpg"class="img-circle">
+              <img  src="img/doc.jpg" >
 
              <p><strong>Mobile developer</strong></p>
     <a target="_blank"class="btn  btn-social-icon btn-facebook">
@@ -333,7 +333,7 @@ Together, NTv and iAlert can paint a more complete picture of the news. We'd lov
             </div><!--/span-->
         <div class="span4">
         <h2>kiyingi Ivan</h2>
-        <img  src="img/ivan.jpg" class="img-circle">
+        <img  src="img/ivan.jpg" >
              <p><strong>Project Manager and mobile apps developer</strong></p>
     <a target="_blank" href="https://www.facebook.com/kiyingi.ivan.332" class="btn  btn-social-icon btn-facebook">
     <i class="fa fa-facebook"></i></a>
